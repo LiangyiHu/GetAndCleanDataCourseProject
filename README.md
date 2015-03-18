@@ -2,7 +2,7 @@
 CourseProject
 ## Description
 
-The script works as follows:
+#The script works as follows:
 
 Prerequisite:
 set working directory to the unzipped folder first (where README.txt or features.txt are).
